@@ -30,7 +30,7 @@ def download_and_install_update_if_available():
 
 def start():
     switch = SWITCH_MAIN()
-    switch.main_loop(20)
+    switch.main_loop(21)
 
 
 def boot():
